@@ -1,9 +1,9 @@
 ## Tugas 1 
 ### Searching
 1. <a href="Searching/Sequential Searching.c"> Sequential Searching</a><br>
-↳ <a href="Searching/Deskripsi Sequential"> Deskripsi Sequential Searching</a><br>
+↳ <a href="Searching/Deskripsi Binary Searching"> Deskripsi Sequential Searching</a><br>
 2. <a href="Searching/Binary searching.c"> Binary Searching</a><br>
-↳ <a href="Searching/Deskripsi Sequential"> Deskripsi Binary Searching</a><br>
+↳ <a href="Searching/Deskripsi Sequential Searching"> Deskripsi Binary Searching</a><br>
 ## Tugas 2
 ### Sorting
 1. <a href="Sorting/Challenge.c"> Challenge </a><br>
