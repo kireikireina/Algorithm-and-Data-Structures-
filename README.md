@@ -6,7 +6,7 @@
 ↳ <a href="Deskripsi Sequential"> Deskripsi Binary Searching</a><br>
 ## Tugas 2
 ### Sorting
-1. <a href=""> Challenge </a><br>
+1. <a href="Sorting/Challenge.c"> Challenge </a><br>
 2. <a href=""> Bubble Sorting </a><br>
 3. <a href=""> Selection Sorting </a><br>
 4. <a href=""> Insertion Sorting </a><br>
