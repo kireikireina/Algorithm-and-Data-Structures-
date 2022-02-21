@@ -10,3 +10,4 @@
 2. <a href=""> Bubble Sorting </a><br>
 3. <a href=""> Selection Sorting </a><br>
 4. <a href=""> Insertion Sorting </a><br>
+5. <a href=""> Screenshot Output </a><br>
