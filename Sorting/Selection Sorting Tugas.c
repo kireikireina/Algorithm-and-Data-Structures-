@@ -1,5 +1,5 @@
 #include <stdio.h>
-int selectionSort(int arr[], int n){
+void selectionSort(int arr[], int n){
   int i, j, posisi, swap;
   for(i = 0; i < (n-1); i++){
     posisi = i;
