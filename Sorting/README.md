@@ -7,3 +7,6 @@
 4. <a href="Sorting/Insertion Sorting tugas.c"> Insertion Sorting </a><br>
 ↳ <a href="Sorting/Deskripsi/Deskripsi Insertion Sorting"> Deskripsi Insertion Sorting </a><br>
 5. Screenshot Output :
+6. <img src="Sorting/Output/Screenshot (25).png"> <br>
+7. <img src="Sorting/Output/Screenshot (26).png"> <br>
+8. <img src="Sorting/Output/Screenshot (27).png">
