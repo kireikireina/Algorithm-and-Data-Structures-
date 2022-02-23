@@ -1,7 +1,7 @@
 <h1 align=center> ❧ Algoritma & Struktur Data </h1>
 
 ## Tugas 1 - Searching :octocat:
-1. <a href="Searching/Sequential Searching.c"> Sequential Searching </a><br>
+1. <a href="https://github.com/kireikireina/Tugas-ASD/blob/6bcd1cbc7a3d249b41748e43572bbc18ec700322/Searching/Sequential/README.md"> Sequential Searching </a><br>
 2. <a href="https://github.com/kireikireina/Tugas-ASD/blob/5b0c4137a30049c3fe7d97fe962e7f0b877700f6/Searching/Binary/README.md"> Binary Searching </a><br>
 
 ## Tugas 2 - Sorting :octocat:<br>
