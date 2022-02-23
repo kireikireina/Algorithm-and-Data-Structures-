@@ -1,3 +1,4 @@
+# ❧ Algoritma & Struktur Data
 ## Tugas 1 - Searching :octocat:
 1. <a href="Searching/Sequential Searching.c"> Sequential Searching </a><br>
 ↳ <a href="Searching/Deskripsi Binary Searching"> Deskripsi Sequential Searching </a><br>
