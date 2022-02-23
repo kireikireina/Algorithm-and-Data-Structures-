@@ -2,9 +2,7 @@
 
 ## Tugas 1 - Searching :octocat:
 1. <a href="Searching/Sequential Searching.c"> Sequential Searching </a><br>
-↳ <a href="Searching/Deskripsi Binary Searching"> Deskripsi Sequential Searching </a><br>
-2. <a href="Searching/Binary searching.c"> Binary Searching </a><br>
-↳ <a href="Searching/Deskripsi Sequential Searching"> Deskripsi Binary Searching </a><br>
+2. <a href="https://github.com/kireikireina/Tugas-ASD/blob/5b0c4137a30049c3fe7d97fe962e7f0b877700f6/Searching/Binary/README.md"> Binary Searching </a><br>
 
 ## Tugas 2 - Sorting :octocat:<br>
 1. <a href="Sorting/Challenge.c"> Challenge </a><br>
