@@ -1,3 +1,3 @@
-## BUBBLE SORTING <a href="Sorting/Bubble Sorting/Bubble Sorting Tugas.c"> coding </a>
+## BUBBLE SORTING <a href="Sorting/Bubble Sorting/Bubble Sorting Tugas.c"> coding </a> <br>
 <p> Bubble sorting pada coding yang saya lampirkan akan mengurutkan data acak secara ascending dengan meminta inputan user untuk berapa banyak array yang diinginkan user, lalu user memasukan angka sebanyak jumlah array yang mereka inginkan sebelumnya. Bubble sorting menggunakan cara mengurutkan angka inputan user berdasarkan step berurutan. </p> <br><br>
 <a href="Sorting/Bubble Sorting/Screenshot (26).png"> SCREENSHOT OUTPUT </a>
