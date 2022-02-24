@@ -1,4 +1,4 @@
-<h1 align=center> ❧ Algoritma & Struktur Data </h1>
+<h1 align=center> ✼ Algoritma & Struktur Data ✼ </h1>
 
 ## Tugas 1 - Searching :octocat:
 1. <a href="https://github.com/kireikireina/Tugas-ASD/blob/6bcd1cbc7a3d249b41748e43572bbc18ec700322/Searching/Sequential/README.md"> Sequential Searching </a><br>
