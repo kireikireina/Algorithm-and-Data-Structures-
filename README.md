@@ -11,12 +11,12 @@
 ❧ <a href="https://github.com/kireikireina/Tugas-ASD/blob/d030f5bd4f99e8b9da1f0f13aa92c4b08ae29ea3/Sorting/Insertion%20Sorting/README.md"> Insertion Sorting </a><br>
 
 ### Linked List :octocat: <br>
-❧ <a href=""> Shortcut </a><br>
+❧ <a href="https://github.com/kireikireina/Algorithm-and-Data-Structures-/tree/main/Linked%20List"> Shortcut </a><br>
 
 ### Stack and Queue :octocat: <br>
 ❧ <a href="https://github.com/kireikireina/Algorithm-and-Data-Structures-/blob/a488d6462bc1131cefd51ca55e2b77fa73f1c87e/Stack%20&%20Queue/README.md"> Shortcut </a><br>
 
 ### Tree :octocat: <br>
-❧ <a href=""> Shortcut </a><br>
+❧ <a href="https://github.com/kireikireina/Algorithm-and-Data-Structures-/tree/main/Tree"> Shortcut </a><br>
 
 
